@@ -1,0 +1,12 @@
+dia 18/4
+Foi criado um menu do projeto do java para o jogo da advinhação, esse menu foi salvo no GitHub
+
+dia 16/5
+Criamos mais uma versão do jogo de advinhação (por conta de que alguns alunos do projeto faltaram e não conseguiram suprir o projeto).
+Fizemos um menu utilizando a estrutura de decisão (If..else).
+No jogo o usuário digitava um número, e o objetivo era do usuário acertar o número escolhido aleatoriamente. ao digitar algum número, o jogo informava se ele colocou o número correto ou não.
+
+23/5
+Adicionamos a lógica do jogo, colocando estrutura de laço de repetição, onde os usuários poderiam jogar mais de uma vez.
+para funcionar, utilizamos o "Laço For"
+Baixamos o projeto para a situação de aprendizagem usando o site "Spring Initializr"

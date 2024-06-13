@@ -1,0 +1,13 @@
+dia 25/4
+aprendemos sobre modelos, entidades e relacionamentos.
+fizemos um esquema de "eventos" com endereço, nome, cpf, e outros.
+salvamos todo o progresso no GitHub.
+
+2/5
+Fizemos a continuação do banco de dados, onde foi utilizado a linguagem SQL para construção do banco.
+Utilizamos também insert para colocar as informações de cada cliente do "evento" em uma tabela.
+
+9/5
+Usamos a engenharia direta do MySQL para criar o script do banco de dados (Eventos)
+Usamos também o comando "select" para poder ver as informações de cada cliente.
+Essas informações também foram salvas no GitHub.

@@ -1,0 +1,18 @@
+dia 4/4
+Integração Com o Sandro
+Tour pelo Senai
+Desafio no Jogo Kahoot
+Desafio de Lógica
+
+dia 11/4
+Criação da conta GitHub
+Aprendizagem dos comandos do "git"
+sendo eles: 
+git add
+git insert
+git delete
+git commit
+git pull
+git push
+git remote
+git branch
