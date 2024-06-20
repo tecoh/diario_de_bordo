@@ -1,0 +1,22 @@
+20/06
+
+Foi excluido o repositorio "eventos" no GitHub
+Criamos o repositório pelo github denominado por "eventos_api"
+criamos o projeto utilizando o spirng initializr
+colamos uma openapi no pom.xml do inteliJ
+
+SFC é a raiz do projeto todo
+temos também uma pasta de testes 
+/buscar
+"get"
+
+/buscar/id
+"get"
+
+/adicionar
+"post"
+
+/remover
+"delete"
+
+todos fazem parte de um repositório, que vao para o jpa e database, do database pro jpa
